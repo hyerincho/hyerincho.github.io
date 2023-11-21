@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Harvard Astronomy and I am originally from Korea. My research interest lies in studying black hole accretion physics via analytical models and general relativistic magnetohydrodynamic (GRMHD) simulations.
+I am a Ph.D. student at Harvard Astronomy and I am originally from Korea. I am interested in studying the accretion of highly energetic plasma onto black holes using analytical models and general relativistic magnetohydrodynamic (GRMHD) simulations.
