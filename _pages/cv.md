@@ -16,15 +16,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Summer Undergraduate Research Fellow
+  * Caltech Theoretical Astrophysics
+  * Supervisor: Prof. Sterl Phinney
+  * Numerical modeling of time-independent accretion discs with instabilities.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2018 - 2019: Visiting Research Associate / Summer Studentship
+  * Curtin Institute of Radio Astronomy (CIRA)
+  * Supervisors: Prof. Jean-Pierre Macquart, Dr. Clancy James, Dr. Ian Morrison
+  * Recovering the full time resolution of ASKAP FRB voltage data.
+
+* Spring 2019: Visiting Student Intern
+  * OzGrav, Swinburne University of Technology
+  * Supervisors: Prof. Matthew Bailes, Prof. Adam Deller, Prof. Ryan Shannon
+  * Localized ASKAP FRBs’ high time resolution and their analysis.
+
+* Spring 2019: Visiting Student Intern
+  * Seoul National University
+  * Supervisors: Prof. Ji-hoon Kim
+  * Impacts of galactic perturbers on fueling the MBH with a resolution appropriate accretion model
   
 Skills
 ======
