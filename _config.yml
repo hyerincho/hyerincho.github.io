@@ -86,6 +86,8 @@ author:
   location         : "Center for Astrophysics P-306"
   employer         :
   pubmed           : 
+  ads              : "https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A%220000-0002-2858-9481%22&sort=date%20desc%2C%20bibcode%20desc"
+  arxiv            : "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Hyerin+Cho&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
   googlescholar    : "https://scholar.google.com/citations?user=JbZkLbEAAAAJ&hl=en"
   email            : "hyerin.cho@cfa.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files

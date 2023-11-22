@@ -64,6 +64,15 @@
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
+      {% if author.ads %}
+        <li><a href="{{ author.ads }}"> ads</a></li>
+      {% endif %}
+      {% if author.arxiv %}
+        <li><a href="{{ author.arxiv }}"> arXiv</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
@@ -102,9 +111,6 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
-      {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
