@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <a href="{{author.ads}}">ads</a>, <a href="{{author.arxiv}}">arXiv</a>, and <a href="{{author.googlescholar}}">Google Scholar profile</a>.
+You can also find my articles on <a href="{{ author.ads }}">ads</a>, <a href="{{ author.arxiv }}">arXiv</a>, and <a href="{{ author.googlescholar }}">Google Scholar profile</a>.
 
 
   <li style="font-size:1.em"> Cho et. al. 2023 "Bridging Scales in Black Hole Accretion and Feedback: Magnetized Bondi Accretion in 3D GRMHD" </li>
