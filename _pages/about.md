@@ -13,7 +13,7 @@ I am a Ph.D. student at Harvard Astronomy and I am originally from Korea. I am i
 <header>
     <h2>Bridging Scales in Black Hole (BH) Accretion and Feedback</h2>
     <p class="tagline">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jW69PyerCVk?si=WcrdT2CsT7cLzrVA?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jW69PyerCVk?si=WcrdT2CsT7cLzrVA?autoplay=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
     </p>
     In a series of papers (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad1048">Cho+23</a>,<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad9561">24</a>,<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250717818C/abstract">25</a>), we have tackled an extremely challenging problem of connecting the physics of BH accretion and jet feedback near the event horizon to the evolution of galaxies on kiloparsec scales. We pioneered the <b>multizone</b> method in general relativistic magnetohydrodynamic (GRMHD) simulations, a breakthrough that overcomes the timestep barrier in traditional simulations. This allowed simulating the full accretion and feedback loop from the BH horizon to galactic environment, spanning up to nine orders of magnitude in spatial scale.
     Crucially, we provided physically grounded prescriptions for AGN feedback that can be adopted into cosmological and galaxy-scale simulations, enabling more realistic modeling of BH–galaxy co-evolution across cosmic time.
