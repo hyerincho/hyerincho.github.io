@@ -14,7 +14,7 @@ I am a Ph.D. student at Harvard Astronomy and I am originally from Korea. I am i
     <h2>Bridging Scales in Black Hole (BH) Accretion and Feedback</h2>
     <p class="tagline">
     <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/jW69PyerCVk?si=WcrdT2CsT7cLzrVA?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allowfullscreen allow="autoplay"></iframe>-->
-    <video width="1000" height="500" controls autoplay muted loop>
+    <video width="1000" height="480" controls autoplay muted loop>
   <source src="../images/frames_zoom_log_Theta.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
