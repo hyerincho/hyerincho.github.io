@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Burke Institute Fellow at Caltech and a CITA (Canadian Institute for Theoretical Astrophysics) Fellow at the University of Toronto. Before this, I completed my Ph.D. in Astronomy at Harvard University with a thesis titled "Black Hole Accretion and Feedback: From the Event Horizon to Galactic Scales." I am interested in studying the accretion of highly energetic plasma onto black holes using analytical models and general relativistic magnetohydrodynamic (GRMHD) simulations.
+I am a <b>Burke Institute Fellow</b> at Caltech and a <b>CITA (Canadian Institute for Theoretical Astrophysics) Fellow</b> at the University of Toronto. Before this, I completed my Ph.D. in Astronomy at Harvard University with a thesis titled "Black Hole Accretion and Feedback: From the Event Horizon to Galactic Scales." I am interested in studying the accretion of highly energetic plasma onto black holes using analytical models and general relativistic magnetohydrodynamic (GRMHD) simulations.
 
 <header>
     <h2>Bridging Scales in Black Hole (BH) Accretion and Feedback</h2>
